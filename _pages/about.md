@@ -38,11 +38,11 @@ Publications
   * **Junteng Liu** (first author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
   * Code: Vision4Chart (GitHub)
 
+**2024**
+
 * **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)
   * **Junteng Liu** (first author), Shiqi Chen, Yu Cheng, Junxian He
   * Code: Universal_Truthfulness_Hyperplane (GitHub)
-
-**2024**
 
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
   * Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
